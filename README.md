@@ -3,9 +3,6 @@
 <img src="https://avatars.githubusercontent.com/AgatZCode" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+AlpisV2+" alt="">
-</p>
-<p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AgatZCode-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
