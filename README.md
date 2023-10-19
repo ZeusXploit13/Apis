@@ -26,7 +26,7 @@
 * ## STEP 1
 Forks Github Ini Klick Di Bawah
 
-[![Fork](https://telegra.ph/file/0ac5b4f21a7c153f3bfc7.png)](https://github.com/AgatZCode/api-alpis/fork)
+[![Fork](https://telegra.ph/file/0ac5b4f21a7c153f3bfc7.png)](https://github.com/AgatZCode/AgatApis/fork)
 
 
 * ## STEP 2
@@ -91,12 +91,6 @@ copy paste kat Environment Variable di
 recaptcha_key_1 = 'Key recaptchaV1 Kamu'
 recaptcha_key_2 = 'Key recaptchaV2 Kamu'
 ```
-  
-* ## Tutorial Youtube
-
-<a href="https://youtu.be/5K3YYuq7QoI"><img src="https://img.youtube.com/vi/5K3YYuq7QoI/sddefault.jpg" alt="">
-
- [`Tutorial In Youtube`](https://youtu.be/5K3YYuq7QoI)<br>
 
 * ## SETTING ⚙️
 File Setting ``setting.js``
@@ -153,8 +147,8 @@ File Setting ``setting.js``
 * ## Hasil Deploy🌍
 
 [`agatapi.agatz.repl.co `](https://agatapi.agatz.repl.co)<br>
-[`alpis.bot-skylarkskyl.repl.co
-`](https://alpis.bot-skylarkskyl.repl.co)<br>
+[`agat.bot-skylarkskyl.repl.co
+`](https://agat.bot-skylarkskyl.repl.co)<br>
 
 
 * ## Support Deploy Free
