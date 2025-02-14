@@ -25,7 +25,7 @@ LimitApikey = 9999 // Limit Apikey default
 
 //___________ ┏  Database Mongodb Setting  ┓ ___________\\
 
-keymongodb = "mongodb+srv://mongodb-api:JazxCode@cluster0.qrr5k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+keymongodb = 'mongodb+srv://mongodb-api:JazxCode@cluster0.qrr5k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 
 //___________ ┏  SMTP Setting  ┓ ___________\\
 
@@ -33,8 +33,8 @@ keymongodb = "mongodb+srv://mongodb-api:JazxCode@cluster0.qrr5k.mongodb.net/?ret
 usetempemail = false // kalau true boleh sing up pakai email temp kalau pakai service gmail pakai false je 
 servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 limit sendinblue 300 free. List service smtp : https://nodemailer.com/smtp/well-known/
 sendemail = 'prstrajaa@gmail.com' //Email SMTP
-fromsendemail = 'syrozz26@gmail.com' // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
-sendpwmail = 'enuvnljpxqjwurjg' // Password Email SMTP
+fromsendemail = 'prstrajaa@gmail.com' // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
+sendpwmail = 'enuv nljp xqjw urjg' // Password Email SMTP
 domain = 'agatapi.agatz.repl.co'// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
